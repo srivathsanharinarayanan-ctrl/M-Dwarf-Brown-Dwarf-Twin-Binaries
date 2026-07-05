@@ -2,7 +2,7 @@
 
 Hi all! This repository contains a custom Python data-processing pipeline to ingest, clean and analyze raw space telescope telemetry from NASA's Transiting Exoplanet Survey Satellite (TESS). 
 
-By applying automated light curve normalization and phase-folding algorithms, this pipeline successfully revealed a previously undocumented **M-dwarf companion star** orbiting the bright, hot primary star **TIC 361894940**.
+By applying automated light curve normalization and phase-folding algorithms, I have successfully discovered an undocumented **M-dwarf companion star** orbiting the bright, hot primary star **TIC 361894940**.
 
 ---
 
