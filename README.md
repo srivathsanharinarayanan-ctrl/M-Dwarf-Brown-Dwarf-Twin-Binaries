@@ -41,7 +41,7 @@ To ensure the signal was genuine and not an instrumental artifact or background 
 * **Flattening & Detrending:** Removes long-term stellar variability and spacecraft systematics using custom filtering.
 * **Phase-Folding Engine:** Folds the time-series data over calculated periods to stack transit events and maximize the signal-to-noise ratio.
 * **Geometric Modeling:** Extracts exact transit depths for both primary and secondary eclipses.
-
+Thank you Sir/Madam for reviewing my paper and for all of ma gen-z fellas peace out gang ✌🏻
 ---
 
 ## License
